@@ -1,0 +1,2 @@
+def display(num)
+end
