@@ -1,0 +1,1 @@
+menu = { "coffee" => 0, "espresso" => 0, "sandwich" => 0, "water" => 0}
