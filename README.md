@@ -22,13 +22,15 @@
 ```
 alphabet = "abcefghijklmn"
 ```
-想定される出力結果　　
+想定される出力結果
+
 ![スクリーンショット 2020-11-05 22 56 08](https://user-images.githubusercontent.com/35086740/98249887-1d3f5500-1fba-11eb-93ce-711ea3aac4b1.png)
 
 ### 問題2
 入力された値を表示するようなプログラムを作成してください
 ※出力結果をしっかりと確認してから問題に取り組みましょう。
 想定される出力結果
+
 ![スクリーンショット 2020-11-05 23 39 51](https://user-images.githubusercontent.com/35086740/98254963-3a772200-1fc0-11eb-95ff-0e5b2aa3d02b.png)
 
 ### 問題3
@@ -38,6 +40,7 @@ menu = { "coffee" => 0, "espresso" => 0, "sandwich" => 0, "water" => 0}
 ```
 
 想定される出力結果
+
 ![スクリーンショット 2020-11-05 23 52 44](https://user-images.githubusercontent.com/35086740/98256577-10befa80-1fc2-11eb-8eff-9ffcf6c33898.png)
 
 ### 問題4
@@ -47,6 +50,7 @@ menu = { "coffee" => 0, "espresso" => 0, "sandwich" => 0, "water" => 0}
 引数：numが"3"で割り切れる場合 -> |　　
 引数：numが"6"で割り切れる場合 -> *|　　
 上記のどれにも当てはまらない場合 -> _　　
+
 ![スクリーンショット 2020-11-06 0 15 10](https://user-images.githubusercontent.com/35086740/98259218-30a3ed80-1fc5-11eb-92cc-b4250398f1a8.png)
 
 ### 問題5
