@@ -54,6 +54,12 @@ menu = { "coffee" => 0, "espresso" => 0, "sandwich" => 0, "water" => 0}
 ![スクリーンショット 2020-11-06 0 15 10](https://user-images.githubusercontent.com/35086740/98259218-30a3ed80-1fc5-11eb-92cc-b4250398f1a8.png)
 
 ### 問題5
+引数：num をとり引数"num"の回数分繰り返し文字列を表示するようなメソッド"nabeatsu"を完成させてください。
+なお、nabeatsuメソッドでは"3"のつく場合のみ文字列"aho"を表示するようにしてください。
+nabeatsuメソッドには入力された値を渡すようにしてください。
+想定される出力結果
+![スクリーンショット 2020-11-07 0 17 10](https://user-images.githubusercontent.com/35086740/98382472-97d9a480-208e-11eb-8694-e69efdd9f829.png)
+
 ### 問題6
 ### 問題7
 ### 問題8
