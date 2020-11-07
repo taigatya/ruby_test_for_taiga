@@ -1,15 +1,14 @@
 require 'minitest/autorun'
 
 # ************************************************
+  # クラスの継承を用いて、Japanese, Americanクラスにそれぞれ"日本語を話します。", "英語を話します"というインスタンスメソッドspeakを実装してください。
+  # JapaneseとAmericanクラスはHumanクラスを継承することとします。
 # ************************************************
 
 class Human
-  def initialize(traditional_meal)
-    @traditional_meal = traditional_meal
-  end
-
-  def self.traditinal_meals
-  end
+  # ************************************************
+  # 9.rb実装したHumanクラスの内容をコピーしてください
+  # ************************************************
 end
 
 class Japanese
